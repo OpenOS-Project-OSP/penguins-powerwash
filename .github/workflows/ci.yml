@@ -14,25 +14,25 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: ShellCheck — bin
-        uses: ludeeus/action-shellcheck@2.1.0
+        uses: ludeeus/action-shellcheck@2.1.1
         with:
           scandir: "./bin"
           severity: warning
 
       - name: ShellCheck — lib
-        uses: ludeeus/action-shellcheck@2.1.0
+        uses: ludeeus/action-shellcheck@2.1.1
         with:
           scandir: "./lib"
           severity: warning
 
       - name: ShellCheck — modes
-        uses: ludeeus/action-shellcheck@2.1.0
+        uses: ludeeus/action-shellcheck@2.1.1
         with:
           scandir: "./modes"
           severity: warning
 
       - name: ShellCheck — integration
-        uses: ludeeus/action-shellcheck@2.1.0
+        uses: ludeeus/action-shellcheck@2.1.1
         with:
           scandir: "./integration"
           severity: warning
