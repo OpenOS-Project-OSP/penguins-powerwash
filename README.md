@@ -102,4 +102,4 @@ GPL-3.0. See [LICENSE](LICENSE).
 
 ## Upstream
 
-Forked from [Interested-Deving-1896/linux-powerwash](https://gitlab.com/openos-project/linux-distro_feature-modules_deving/linux-powerwash).
+Forked from [openos-project/linux-powerwash](https://gitlab.com/openos-project/linux-distro_feature-modules_deving/linux-powerwash).
