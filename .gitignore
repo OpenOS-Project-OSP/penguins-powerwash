@@ -16,3 +16,4 @@
 
 # Test artifacts
 tests/tmp/
+.npmrc
